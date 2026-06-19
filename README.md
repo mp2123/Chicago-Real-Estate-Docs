@@ -15,7 +15,7 @@ A full-stack data platform for processing, aggregating, and visualizing real est
 
 ## Related Public Proof Shells
 
-This repository is a public-safe docs shell for a private data-platform project. It should be read as supporting data-engineering and full-stack analytics context, while the live portfolio and other docs shells carry the main recruiter-facing proof map. Private implementation repos, database files, data-access configuration, credentials, and production runtime state are intentionally not linked publicly.
+This repository is a public-safe docs shell for a private data-platform project. It should be read as supporting data-engineering and full-stack analytics context, while the live portfolio and other docs shells carry the main professional proof map. Private implementation repos, database files, data-access configuration, credentials, and production runtime state are intentionally not linked publicly.
 
 - [Portfolio project library](https://www.michaelspanico.com/projects)
 - [Portfolio Website Docs](https://github.com/mp2123/Portfolio-Website-Docs)
